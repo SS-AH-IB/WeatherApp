@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="cities">
+        <item>Sofia, Bulgaria</item>
+        <item>Sarajevo, Bosnia</item>
+        <item>Sandnes, Norway</item>
+        <item>Saint Petersburg, Russia</item>
+        <item>Rome, Italy</item>
+        <item>Riga, Latvia</item>
+        <item>Reykjavik, Iceland</item>
+        <item>Prague, Czech Republic</item>
+        <item>Pecs, Hungary</item>
+        <item>Patrai, Greece</item>
+        <item>Paris, France</item>
+        <item>Milan, Italy</item>
+        <item>Palermo, Italy</item>
+        <item>Oslo, Norway</item>
+        <item>Oulu, Finland</item>
+        <item>Amsterdam, Netherlands</item>
+        <item>Athens, Greece</item>
+        <item>Barcelona, Spain</item>
+        <item>Grimstad, Norway</item>
+        <item>Genoa, Italy</item>
+        <item>Geneva, Switzerland</item>
+        <item>Gdansk, Poland</item>
+        <item>Frankfurt, Germany</item>
+        <item>Florence, Italy</item>
+        <item>Essen, Germany</item>
+        <item>Copenhagen, Denmark</item>
+        <item>Chisinau, Moldova</item>
+        <item>Budapest, Hungary</item>
+        <item>Bremen, Germany</item>
+        <item>Bratislava, Slovakia</item>
+        <item>Cagliari, Italy</item>
+        <item>Bordeaux, France</item>
+        <item>Bucharest, Romania</item>
+        <item>Bologna, Italy</item>
+        <item>Brussels, Belgium</item>
+        <item>Bern-Belp, Switzerland</item>
+        <item>Berlin, Germany</item>
+        <item>Belgrade, Serbia</item>
+        <item>Bergen, Norway</item>
+        <item>Hamburg, Germany</item>
+        <item>Hammerfest, Norway</item>
+        <item>Helsinki, Finland</item>
+        <item>Istanbul, Turkey</item>
+        <item>Jerusalem, Israel</item>
+        <item>Kiruna, Sweden</item>
+        <item>Koeln, Germany</item>
+        <item>Nantes, France</item>
+        <item>Naples Italy</item>
+        <item>Murmansk, Russia</item>
+        <item>Munich, Germany</item>
+        <item>Moscow, Russia</item>
+        <item>Marseille, France</item>
+        <item>Malaga, Spain</item>
+        <item>Madrid, Spain</item>
+        <item>Lyon, France</item>
+        <item>Le Havre, France</item>
+        <item>Luxembourg, Luxembourg</item>
+        <item>Lisbon, Portugal</item>
+        <item>Leipzig, Germany</item>
+        <item>Kyiv, Ukraine</item>
+        <item>Kristiansand, Norway</item>
+        <item>Krakow, Poland</item>
+        <item>Stavanger, Norway</item>
+        <item>Stockholm, Sweden</item>
+        <item>Strasbourg, France</item>
+        <item>Torino, Italy</item>
+        <item>Venice, Italy</item>
+        <item>Warsaw, Poland</item>
+        <item>Vilnius, Lithuania</item>
+        <item>Tirana, Albania</item>
+        <item>Tallinn, Estonia</item>
+        <item>Vienna, Austria</item>
+    </string-array>
+</resources>
